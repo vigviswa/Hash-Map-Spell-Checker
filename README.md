@@ -24,4 +24,10 @@ the word in your hash table. Display an error message if the word not found.
 # Running the Code
 
 Download the C++ code named `spellchecker.cpp` and the `words.txt` file and place them in the same directory. To Run the code, compile the code as:
-```g++ -o spellchecker spellchecker.cpp``` and run as ```./spellchecker```
+```
+g++ -o spellchecker spellchecker.cpp
+``` 
+and run as 
+```
+./spellchecker
+```
